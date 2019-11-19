@@ -1,0 +1,10 @@
+Hello ... !!
+<<<<<<< HEAD
+I'm the new student.
+103!
+=======
+Hi I'm the new student.
+New_file.
+Good morning!!
+See you soon.
+>>>>>>> Login_feature
