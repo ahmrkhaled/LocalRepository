@@ -4,4 +4,8 @@ I'm the new student.
 Hi I'm the new student.
 New_file.
 Good morning!!
+<<<<<<< HEAD
 See you soon.
+=======
+See you soon.
+>>>>>>> parent of b43932c... popop
